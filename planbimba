@@ -1,0 +1,9 @@
+<?php
+$myarray ['blah'] = json_decode('[
+{"label$myarray['blah'] = json_decode('[
+        {"label":"foo","name":"baz"},
+        {"label":"boop","name":"beep"}
+    ]',true);
+
+print_r($myarray)
+?>
